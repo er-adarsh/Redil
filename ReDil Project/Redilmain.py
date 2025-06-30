@@ -17,7 +17,7 @@ nltk.download('vader_lexicon')
 nltk.download('stopwords')
 
 # Predefined YouTube API key
-YOUTUBE_API_KEY = 'AIzaSyCKp9taXY9vf-khm5wmKTuEy306BADcc0E'
+YOUTUBE_API_KEY = ''
 
 # Function to get comments from YouTube video
 def get_youtube_comments(video_id):
